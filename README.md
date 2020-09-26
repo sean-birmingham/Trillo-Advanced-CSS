@@ -1,1 +1,1 @@
-# Trillo-Advanced-CSS
+# Trillo (Advanced CSS Course)
